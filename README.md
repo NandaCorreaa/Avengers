@@ -1,8 +1,20 @@
-# React + Vite
+# Avengers
+Seja bem-vindo(a)!! 🤩
+O objetivo do projeto foi desenvolver um site em que a imagem e informações do persogagem quando o selecionamos.
+Oprojeto está responsivo para o celular.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias Utilizadas 👩🏻‍💻
+<ul>
+  <li>React.JS</li>
+  <li>Styled-Components</li>
+</ul>
+Link do Deploy: https://avengers-by-fernanda-correa.vercel.app/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/NandaCorreaa/Avengers/assets/135910374/7b6dfbfd-b394-40ba-b512-9117250cd52f
+
+
+
+
+
+
