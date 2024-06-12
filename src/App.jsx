@@ -102,6 +102,7 @@ const InfoVingadores = styled.div`
     p {
       font-size: 16px;
       width: 90%;
+      height: 22vh;
     }
   }
 `
@@ -144,8 +145,9 @@ const BotaoVingadores = styled.div`
 
   @media (max-width: 768px){
     width: 100%;
-    height: 40vh;
+    height: 50vh;
     background-color: #0D0D0D;
+    justify-content: space-evenly;
 
     h2 {
       font-size: 20px;
